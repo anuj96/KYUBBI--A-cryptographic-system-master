@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jarfile">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/jarfile/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/jarfile/commons-io-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/jarfile/commons-fileupload-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/jarfile/bcprov-1.45.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/jarfile/fileupload-progress.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/jarfile/mysql-connector-java-3.0.11-stable-bin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

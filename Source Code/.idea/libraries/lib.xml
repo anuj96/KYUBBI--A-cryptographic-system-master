@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/commons-io-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/commons-fileupload-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/fileupload-progress.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/mysql-connector-java-3.0.11-stable-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/web/WEB-INF/lib/bcprov-1.45.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
